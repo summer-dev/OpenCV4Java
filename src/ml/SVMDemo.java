@@ -17,4 +17,5 @@ public class SVMDemo {
     int[] labels = {1,-1,-1,-1};
     float[][] trainingData = { {501,10}, {255,10}, {501,255}, {10,50}};
     Mat trainingDataMat = Mat.Mat(4,2,CvType.CV_32FC1,labels);
+
 }
