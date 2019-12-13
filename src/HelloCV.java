@@ -7,7 +7,6 @@ import org.opencv.core.Mat;
 import img_proc.*;
 
 public class HelloCV {
-	
 	static String lenaImg = "/home/summer/insight/tools/eclipse/workspace/HelloCV/img/lena.jpeg";
 	//store function name value pairs
 	
